@@ -49,7 +49,7 @@ The number of instances per language after deleting repeated examples and the nu
 * LSTM hidden dimesion = 150
 
 ### Ensemble learning
-* The Bagging technique is for ensemble learning.
+* The Bagging technique is used for ensemble learning.
 * The final predictions consists of the average of the outputs of each model trained in a different fold $k$. 
 
 
