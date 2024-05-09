@@ -66,7 +66,7 @@ The number of instances per language after deleting repeated examples and the nu
 | 5 | 0.9717 |
 | Avg | 0.9723 |
 
-* Detailed classification report for the ensemble is shown in the following table:
+* It is possible to observe that the ensemble outperforms all single models. Detailed classification report for the ensemble is shown in the following table:
 
 | | precision | recall | f1-score | instances |
 |:---: | :---: | :---:  | :---:  | :---:  |
@@ -82,7 +82,7 @@ The number of instances per language after deleting repeated examples and the nu
 | Macro F1 |  |  | 0.9772 | 90,000 |
 
 
-* The confusion matrix of the ensamble is shown as a heatmap in the following immage:
+* The confusion matrix of the ensemble is shown as a heatmap in the following image:
 
 ![confusion matrix](./img/confusion_matrix.png "Confusion matrix of the ensemble")
 
